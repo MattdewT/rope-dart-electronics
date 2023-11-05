@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.8,
+          "width": 0.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -471,6 +471,14 @@
     [
       "862cf1c6-cdba-429f-8e57-9bd700b495f1",
       ""
+    ],
+    [
+      "c678dcdb-bee1-488c-b343-f7555192051d",
+      "PSU"
+    ],
+    [
+      "9c6ad8de-c126-43b5-a115-6d3fd78be298",
+      "USB Input"
     ]
   ],
   "text_variables": {}

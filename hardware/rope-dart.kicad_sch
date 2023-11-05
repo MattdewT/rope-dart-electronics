@@ -2365,6 +2365,43 @@
     )
   )
 
+  (sheet (at 29.21 168.91) (size 29.21 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c6ad8de-c126-43b5-a115-6d3fd78be298)
+    (property "Sheetname" "USB Input" (at 29.21 168.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_Input.kicad_sch" (at 29.21 198.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 29.21 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "rope-dart"
+        (path "/862cf1c6-cdba-429f-8e57-9bd700b495f1" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 66.04 168.91) (size 30.48 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c678dcdb-bee1-488c-b343-f7555192051d)
+    (property "Sheetname" "PSU" (at 66.04 168.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PSU.kicad_sch" (at 66.04 198.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "rope-dart"
+        (path "/862cf1c6-cdba-429f-8e57-9bd700b495f1" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
