@@ -3,4 +3,5 @@
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/library/libraries/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "MAX77751FEFG_")(type "KiCad")(uri "${KIPRJMOD}/library/libraries/MAX77751FEFG_.kicad_sym")(options "")(descr ""))
   (lib (name "MAX4906ELB+T")(type "KiCad")(uri "${KIPRJMOD}/library/libraries/MAX4906ELB+T.kicad_sym")(options "")(descr ""))
+  (lib (name "CIGT201610EHR47MNE")(type "KiCad")(uri "${KIPRJMOD}/library/libraries/CIGT201610EHR47MNE.kicad_sym")(options "")(descr ""))
 )
