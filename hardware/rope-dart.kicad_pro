@@ -479,6 +479,10 @@
     [
       "9c6ad8de-c126-43b5-a115-6d3fd78be298",
       "USB Input"
+    ],
+    [
+      "6efa200e-8f0a-4c68-8c7e-ce4e15df2598",
+      "CPU"
     ]
   ],
   "text_variables": {}
